@@ -8,7 +8,7 @@
 <body style="background-color: #cae6cd;">
 <center>
 <div style="margin-top: 10px;">
-  <img src="logo.png" alt="Logo" border="0" style="width: 200px; height: auto;">
+  <img src="<a href="https://freeimage.host/"><img src="https://iili.io/fLpohjj.png" alt="fLpohjj.png" border="0" /></a>" alt="Logo" border="0" style="width: 200px; height: auto;">
 </div>
 
 <hr width="80%" style="border-color: #ccc;">
